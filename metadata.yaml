@@ -1,0 +1,22 @@
+_repo: The-Life-and-Death-of-the-Lord-Cromwell_1736
+creator:
+  author:
+    agent_name: Shakespeare (spurious and doubtful works)
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '654'
+    url: http://www.gutenberg.org/2009/agents/654
+description: Apocrypha
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1736'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PR'
+- !lcsh 'Cromwell, Thomas, Earl of Essex, 1485?-1540 -- Drama'
+title: The Life and Death of the Lord Cromwell
+url: http://www.gutenberg.org/ebooks/1736
