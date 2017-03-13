@@ -1,5 +1,8 @@
 _repo: The-Life-and-Death-of-the-Lord-Cromwell_1736
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare (spurious and doubtful works)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '654'
     url: http://www.gutenberg.org/2009/agents/654
 description: Apocrypha
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1736#The-Life-and-Death-of-the-Lord-Cromwell
 gutenberg_issued: '1999-05-01'
 gutenberg_type: Text
 identifiers:
