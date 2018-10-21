@@ -1,5 +1,5 @@
 _repo: The-Life-and-Death-of-the-Lord-Cromwell_1736
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,5 +24,6 @@ rights_url: ''
 subjects:
 - !lcc 'PR'
 - !lcsh 'Cromwell, Thomas, Earl of Essex, 1485?-1540 -- Drama'
+- GITenberg
 title: The Life and Death of the Lord Cromwell
 url: http://www.gutenberg.org/ebooks/1736
